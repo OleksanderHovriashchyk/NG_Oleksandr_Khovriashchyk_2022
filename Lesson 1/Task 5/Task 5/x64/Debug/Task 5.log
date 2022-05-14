@@ -1,0 +1,5 @@
+﻿  Task 5.cpp
+D:\Programming\Курси New Generation\NG_Oleksandr_Khovriashchyk_2022\Lesson 1\Task 5\Task 5\Task 5.cpp(16,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Programming\Курси New Generation\NG_Oleksandr_Khovriashchyk_2022\Lesson 1\Task 5\Task 5\Task 5.cpp(27,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Programming\Курси New Generation\NG_Oleksandr_Khovriashchyk_2022\Lesson 1\Task 5\Task 5\Task 5.cpp(28,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Task 5.vcxproj -> D:\Programming\Курси New Generation\NG_Oleksandr_Khovriashchyk_2022\Lesson 1\Task 5\x64\Debug\Task 5.exe
